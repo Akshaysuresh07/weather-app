@@ -1,5 +1,5 @@
 const apikey = "a424f733254a6ce6803f1af66349ab4b";
-const apiurl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=Thodupuzha";
+const apiurl = ""
 const searchbox = document.querySelector(".search input");
 const searchbtn = document.querySelector(".search button");
 const weatherimg=document.querySelector(".weather img");
